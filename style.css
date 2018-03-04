@@ -24,7 +24,7 @@ letter-spacing: 8px;
 	margin-left:100px; 
 	padding-top: 20px;
 	font-size: 16px;
-	
+	margin-bottom: 40px;
 }
 
 body {
@@ -51,12 +51,22 @@ padding:20px;
 
 font-family: 'Open Sans', sans-serif;
 text-align: justify;
-margin-left: 100px
-margin-right: 100px;
 line-height: 1.6;
+padding-right: 100px; 
+padding-left:100px;
  }
 
-caption {
-font-family: 'Open Sans', sans-serif;
-font-size: 9px;
+article {
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+
 }
+
+.image-wrapper {
+        width: 200px;
+        float: left;
+        padding-right: 25px;
+        padding-bottom: 10px;
+    }
+    

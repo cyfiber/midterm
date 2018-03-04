@@ -1,0 +1,62 @@
+header{ 
+text-align: center;
+color: white;
+font-family: 'Averia Serif Libre', cursive;
+font-size: 100px;
+background-color: black;
+letter-spacing: 8px;
+
+ }
+
+.navbar li {
+
+  display: inline;
+  margin: 40px;
+
+}
+
+.navbar ul{
+	font-family: 'Averia Serif Libre', cursive;
+	text-align: center;
+	background color: black;
+	border-bottom: 1px solid black;
+	margin-right: 100px;
+	margin-left:100px; 
+	padding-top: 20px;
+	font-size: 16px;
+	
+}
+
+body {
+	background: white;
+	color: black;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+a{ 
+	color:#c1110b;
+	 
+
+ }
+
+ h1 { 
+font-family: 'Averia Serif Libre', cursive;
+text-align: center;
+font-size: 40px;
+padding:20px;
+ }
+
+ p {
+
+font-family: 'Open Sans', sans-serif;
+text-align: justify;
+margin-left: 100px
+margin-right: 100px;
+line-height: 1.6;
+ }
+
+caption {
+font-family: 'Open Sans', sans-serif;
+font-size: 9px;
+}

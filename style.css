@@ -1,4 +1,4 @@
-header{ 
+header { 
 text-align: center;
 color: white;
 font-family: 'Averia Serif Libre', cursive;
@@ -16,10 +16,10 @@ letter-spacing: 8px;
 }
 
 .navbar ul{
-	font-family: 'Averia Serif Libre', cursive;
+font-family: 'Averia Serif Libre', cursive;
 	text-align: center;
 	background color: black;
-	border-bottom: 1px solid black;
+	border-bottom: 2px solid #c1110b;
 	margin-right: 100px;
 	margin-left:100px; 
 	padding-top: 20px;
@@ -31,42 +31,52 @@ body {
 	background: white;
 	color: black;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'EB Garamond', serif;
 }
 
 a{ 
 	color:#c1110b;
-	 
-
+	
  }
 
  h1 { 
 font-family: 'Averia Serif Libre', cursive;
 text-align: center;
+margin-left: 40px;
+margin-right:40px; 
+margin-bottom: 20px;
+margin-top: 20px;
 font-size: 40px;
-padding:20px;
+padding: 30px, 40px, 40px, 40px;
  }
 
- p {
+ h3 { 
+font-family: 'EB Garamond', serif;
+font-style: italic;
+font-size: 15px;
+  }
 
-font-family: 'Open Sans', sans-serif;
+ p {
+font-family: 'EB Garamond', serif;
 text-align: justify;
 line-height: 1.6;
 padding-right: 100px; 
 padding-left:100px;
  }
 
-article {
-        width: 900px;
-        margin-left: auto;
-        margin-right: auto;
-
-}
+img { 
+float: left;
+padding-left: 100px;
+padding-right: 20px;
+margin-left: 40px;
+margin-right: auto;
+ }
 
 .image-wrapper {
-        width: 200px;
-        float: left;
-        padding-right: 25px;
+       	float: left;
+        padding-left: 100px;
+        padding-right: 20px;
         padding-bottom: 10px;
+        
     }
 

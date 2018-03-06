@@ -1,3 +1,39 @@
+header { 
+text-align: center;
+color: white;
+font-family: 'Averia Serif Libre', cursive;
+font-size: 100px;
+background-color: black;
+letter-spacing: 8px;
+padding: 10px; 
+
+ }
+
+.navbar li {
+
+  display: inline;
+  margin: 50px;
+
+}
+
+.navbar ul{
+font-family: 'Averia Serif Libre', cursive;
+	text-align: center;
+	background color: black;
+	border-bottom: 2px solid #c1110b;
+	margin-top: 0px; 
+	margin-left: 40px;  
+	margin-right: 40px;
+	margin-bottom: 40px; 
+}
+
+body {
+	background: white;
+	color: black;
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+}
+
 a{ 
 	color:#c1110b;
 	text-decoration: none;
@@ -6,13 +42,13 @@ a{
 
  h1 { 
 font-family: 'Averia Serif Libre', cursive;
-text-align: center;
+text-align: center; 
 margin-left: 40px;
 margin-right:40px; 
 margin-bottom: 30px;
-margin-top: 20px;
+margin-top: 10px;
 font-size: 40px;
-padding: 30px, 40px, 40px, 40px;
+
  }
 
  h3 { 
@@ -24,25 +60,36 @@ font-size: 15px;
  p {
 font-family: 'EB Garamond', serif;
 text-align: justify;
-line-height: 1.6;
+line-height: 1.8;
 padding-right: 100px; 
 padding-left:100px;
+
  }
 
 
-.image-wrapper {
-       	float: left;
-        padding-left: 100px;
-        padding-right: 20px;
-        padding-bottom: 10px;
-        margin-left: 0px;
-margin-right: auto;
-margin-bottom: 30px;
-    }
+div.related { 
+border: 1px dashed #c1110b;
+padding: 10px;
+text-align: center;
+margin-top: 350px; 
 
-
-.figure img {
-
-	 align-content: center;
 }
 
+div {
+margin-top: 10px; 
+padding-top: 10px; 
+margin-bottom: 10px;
+
+}
+
+.image-wrapper { 
+float: left; 
+margin-left: 40px; 
+padding: 10px; 
+line-height: 640px;  
+ }
+
+article { 
+margin-bottom: 30px; 
+
+}

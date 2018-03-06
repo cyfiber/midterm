@@ -1,41 +1,6 @@
-header { 
-text-align: center;
-color: white;
-font-family: 'Averia Serif Libre', cursive;
-font-size: 100px;
-background-color: black;
-letter-spacing: 8px;
-
- }
-
-.navbar li {
-
-  display: inline;
-  margin: 40px;
-
-}
-
-.navbar ul{
-font-family: 'Averia Serif Libre', cursive;
-	text-align: center;
-	background color: black;
-	border-bottom: 2px solid #c1110b;
-	margin-right: 100px;
-	margin-left:100px; 
-	padding-top: 20px;
-	font-size: 16px;
-	margin-bottom: 40px;
-}
-
-body {
-	background: white;
-	color: black;
-	text-align: center;
-	font-family: 'EB Garamond', serif;
-}
-
 a{ 
 	color:#c1110b;
+	text-decoration: none;
 	
  }
 
@@ -44,7 +9,7 @@ font-family: 'Averia Serif Libre', cursive;
 text-align: center;
 margin-left: 40px;
 margin-right:40px; 
-margin-bottom: 20px;
+margin-bottom: 30px;
 margin-top: 20px;
 font-size: 40px;
 padding: 30px, 40px, 40px, 40px;
@@ -64,19 +29,20 @@ padding-right: 100px;
 padding-left:100px;
  }
 
-img { 
-float: left;
-padding-left: 100px;
-padding-right: 20px;
-margin-left: 40px;
-margin-right: auto;
- }
 
 .image-wrapper {
        	float: left;
         padding-left: 100px;
         padding-right: 20px;
         padding-bottom: 10px;
-        
+        margin-left: 0px;
+margin-right: auto;
+margin-bottom: 30px;
     }
+
+
+.figure img {
+
+	 align-content: center;
+}
 
